@@ -6,6 +6,6 @@ public class Prueba {
 		// TODO Auto-generated method stub
 		System.out.println("primera linea");
 		System.out.println("escrito desde el remoto");
+		System.out.println("escrito desde el local----");
 	}
-
 }
