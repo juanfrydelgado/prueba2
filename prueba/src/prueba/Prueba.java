@@ -7,5 +7,6 @@ public class Prueba {
 		System.out.println("primera linea");
 		System.out.println("escrito desde el remoto");
 		System.out.println("escrito desde el local----");
+		System.out.println("escrito desde el remoto2----");
 	}
 }
